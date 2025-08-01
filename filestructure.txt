@@ -1,0 +1,22 @@
+|-- .gitignore
+|-- eslint.config.js
+|-- index.html
+|-- package-lock.json
+|-- package.json
+|-- public
+    |-- vite.svg
+|-- README.md
+|-- src
+    |-- App.css
+    |-- App.jsx
+    |-- assets
+        |-- react.svg
+    |-- components
+        |-- CanavasStage.jsx
+        |-- Toolkit.jsx
+    |-- index.css
+    |-- LandingPageComponents
+    |-- main.jsx
+    |-- pages
+        |-- DrawingBoard.jsx
+|-- vite.config.js
