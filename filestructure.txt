@@ -1,4 +1,7 @@
 |-- .gitignore
+|-- .vercel
+    |-- project.json
+    |-- README.txt
 |-- eslint.config.js
 |-- index.html
 |-- package-lock.json
@@ -20,4 +23,5 @@
     |-- main.jsx
     |-- pages
         |-- DrawingBoard.jsx
+|-- vercel.json
 |-- vite.config.js
