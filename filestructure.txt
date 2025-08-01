@@ -12,10 +12,11 @@
     |-- assets
         |-- react.svg
     |-- components
-        |-- CanavasStage.jsx
+        |-- CanvasStage.jsx
+        |-- ColorSelecterMenu.jsx
+        |-- ShapeMenu.jsx
         |-- Toolkit.jsx
     |-- index.css
-    |-- LandingPageComponents
     |-- main.jsx
     |-- pages
         |-- DrawingBoard.jsx
